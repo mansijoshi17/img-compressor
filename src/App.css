@@ -1,0 +1,20 @@
+.Container-dashed
+{
+  border-style: dashed;
+  width: 500px;
+  border-width: 2px;
+ margin-top: 50px;
+ margin-bottom: 50px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
